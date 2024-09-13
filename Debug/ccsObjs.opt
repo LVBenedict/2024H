@@ -1,0 +1,12 @@
+"./XLS-4-B.o"
+"./startup_mspm0g350x_ticlang.o"
+"./GRAY SENSOR/gray_sensor.o"
+"./KEY/key.o"
+"./MPU6050/board.o"
+"./MPU6050/bsp_mpu6050.o"
+"./MPU6050/inv_mpu.o"
+"./MPU6050/inv_mpu_dmp_motion_driver.o"
+"./Motor/motor.o"
+"./oled/oled.o"
+-ldevice.cmd.genlibs
+-llibc.a
